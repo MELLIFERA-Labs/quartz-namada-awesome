@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/mellifera-labs/namada-awesome",
       "Discord Community": "https://discord.com/invite/namada",
-      "build with love by MELLIFERA": "https://mellifera.network",
+      "Founded with love by MELLIFERA": "https://mellifera.network",
     },
   }),
 }
